@@ -1,0 +1,2 @@
+# design
+Mamkin Trader design
